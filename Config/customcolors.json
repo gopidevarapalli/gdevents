@@ -1,0 +1,17 @@
+{
+    "splash":{
+        "colors1":"#00DEA5",
+        "colors2":"#09BA90"
+    },
+    "activityindicator":{
+        "color":"#00dea5"
+    },
+    "tabNavigator":{
+        "color:":"#80EED2"
+    },
+    "agendaText":{
+        "color:" :"#000"
+    }
+
+    
+}

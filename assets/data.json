@@ -1,0 +1,70 @@
+{
+    "Agenda":[
+        {
+            "Time":"9 AM - 11 PM",
+            "Details":"Understanding How To Best Adopt Blockchain In Order To Transform Existing Processes"
+        },
+        {
+            "Time":"9 AM - 11 PM",
+            "Details":"Discussing The Changing Shape Of The Accounting Technology Landscape To Service The Changing Needs ….."
+        },
+        {
+            "Time":"9 AM - 11 PM",
+            "Details":"Understanding How To Best Adopt Blockchain In Order To Transform Existing Processes"
+        },
+        {
+            "Time":"9 AM - 11 PM",
+            "Details":"Discussing The Role Of Analytics To Help Accounting Businesses Uncover Valuable Insights Within Their Financials"
+        },
+        {
+            "Time":"9 AM - 11 PM",
+            "Details":"VIRTUAL CLINICAL TRIALS – A DIGITAL EXPERIENCE"
+        },
+        {
+            "Time":"9 AM - 11 PM",
+            "Details":"Exploring The Need To Leverage Current Cloud Based Technologies In Order To Future Proof Firms"
+        } 
+    ],
+    "Stats":[
+        {
+            "StatCount":72,
+            "StatName":"Attendees"
+        },
+        {
+            "StatCount":76,
+            "StatName":"Companies"
+        },
+        {
+            "StatCount":28,
+            "StatName":" Products"
+        },
+        {
+            "StatCount":12,
+            "StatName":"Agenda Sessions"
+        },
+        {
+            "StatCount":17,
+            "StatName":" My Schedule"
+        },
+        {
+            "StatCount":32,
+            "StatName":"My Messages"
+        },
+        {
+            "StatCount":27,
+            "StatName":"My Favorites"
+        }
+    ],
+    "CompanyProfile":[
+        {
+            "companyname":"Acadia Pharmaceuticals",
+            "companybio":"Nuplazid, a drug developed by Acadia in the late 1990s, was designed to stimulate a subset of the brain’s serotonin receptors, or the proteins that govern memory, cognition and learning. On April 29, 2016, the FDA approved Acadias drug, Nuplazid, for the treatment of hallucinations and delusions associated with Parkinsons disease psychosis.[5] Nuplazid is the trade name for Acadias proprietary molecule, pimavanserin, a selective serotonin inverse agonist preferentially targeting 5-HT2a receptors. Acadia had partnered with Biovail in the late-stage clinical testing of the drug, which showed trial failures as of 2009.[1][6][7] Acadia is running multiple Phase 2 and Phase 3 trials with pimavanserin in several central nervous system conditions: dementia-related psychosis[8], major depressive disorder[9], schizophrenia inadequate response[10], and schizophrenia negative symptoms.",
+            "Companytype":"Public",
+            "Companyclassifications":"Pharmaceuticals and Healthcare",
+            "Website":"http://www.ert.com/",
+            "Address":"1818 Market St,Suite 1000,Philadelphia,Philadelphia,Turkey,PA 19103d",
+            "Boothnumber":"Audi03" ,
+            "Premium":"yes"
+        }
+    ]
+}

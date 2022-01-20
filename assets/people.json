@@ -1,0 +1,400 @@
+{
+    "peopleandOrg":
+    {
+        "attendees":
+        [
+            {
+                "image":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/07/1594032280Portr%C3%A4t2_IK-250x350-1.jpg",
+                "name":"Kraft I.",
+                "position":"china Construction Bank Corp",
+                "company":"Bp Plc",
+                "data" :"84%"
+            },
+            
+            {
+                "image":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/07/15950865131.jpg",
+                "name":"Kevin L.",
+                "position":"Security Operations Director",
+                "company":"Bp Plc",
+                "data" :"74%"
+            },
+            
+            {
+                "image":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/07/15946370351594097772Bill-Shea-250x250-1.jpg",
+                "name":"Shea B.",
+                "position":"CEO",
+                "company":"Haris corp",
+                "data" :"67%"
+            },
+            
+            {
+                "image":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/07/1594097432Tracy-Paddock-e1591956088933-250x250-1.jpg",
+                "name":"Beam T.",
+                "position":"IIOT Strategy Advisor",
+                "company":"Helius Hospitality",
+                "data" :"60%"
+            },
+            
+            {
+                "image":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/07/15954045946.jpg",
+                "name":"Steve P",
+                "position":"Manager",
+                "company":"Acadia Pharmaceuticals",
+                "data" :"56%"
+            },
+            
+            {
+                "image":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/07/1594097068Vinit-Verma-e1591017829996-250x248-1.jpg",
+                "name":"Verma V.",
+                "position":"Technology Executive",
+                "company":"Posero",
+                "data" :"64%"
+            },
+            
+            {
+                "image":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/07/159539774430.jpg",
+                "name":"Björn F.",
+                "position":"Chief Compliance Officer",
+                "company":"Mitsubishi Corp",
+                "data" :"74%"
+            },
+            
+            {
+                "image":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/07/1594021769Lars-Duenker-250x250-1.jpg",
+                "name":"Duenker L.",
+                "position":"General Manager",
+                "company":"Fingerprints",
+                "data" :"54%"
+            }
+        ],
+        "speakers":
+        [
+           {
+               "name":"JonMark",
+               "image":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/07/15950863673.jpg",
+               "designation":"Sr.Manager, 2A magazine",
+               "desc":"Working as Sr,Manager in 2A magazine, an architectural magazine dedicated to different provincial architectures of the world. Ever since its launch in the year 2005 in Dubai, it is being distributed all through Middle East Asia. Ahmad Zohadi is the CEO and editor-in-chief of the magazine.",
+               "session":"Technology and Innovation Stream",
+               "topic":"Discussing the best strategies to overcome potent"
+           },
+           {
+                "name":"Jaap De Waard",
+                "image":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/07/15942822792.jpg",
+                "designation":"Head Of Financial ,Tide , PetroChina Co Ltd",
+                "desc":"working as Head Of Financial ,Tide in Brookfield Asset Management Inc. ,an alternative asset management company focusing on real estate, renewable power, infrastructure, private equity and credit. The real estate segment focuses on office, retail, industrial, multifamily, hospitality and other properties.",
+                "session":"Understanding How To Best Adopt Blockchain In Order To Transform Existing Processes",
+                "topic":"Discussing the potential for blockchain to enhance the accounting profession by reducing the costs of maintaining and reconciling ledgers and providing certainty over the ownership of asse"
+            },
+            {
+                "name":"MAtthew Hayyden",
+                "image":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/07/1594282891Mark-Findeis-250x250-1.jpg",
+                "designation":"Group Director Of Revenue Strategy, JPMorgan Chase & Co",
+                "desc":"Working as Group Director Of Revenue Strategy in JPMorgan Chase & Co. , an American multinational investment bank and financial services holding company headquartered in New York City. JPMorgan Chase is ranked by S&P Global as the largest bank in the United States and the sixth largest bank in the world by total assets, with total assets of US$2.687 trillion.",
+                "session":"Reviewing The Increasing Reliance On Technology In Order To Understand How It Can Threaten A Business’ Cyber Security",
+                "topic":"Discussing how cyber-attacks can happen in order to increase awareness on how to best deal with them"
+            },
+            {
+                "name":"Negro Edoardo Dal",
+                "image":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/07/1594283278F-Danzi-250x250-1.jpg",
+                "designation":"Head of Finance , PetroChina Co Ltd",
+                "desc":"Working as Head of Finance in PetroChina Company Limited, a Chinese oil and gas company and is the listed arm of state-owned China National Petroleum Corporation, headquartered in Dongcheng District, Beijing. The company is currently Asia's largest oil and gas producer and was China's second biggest oil producer in 2006.",
+                "session":"Discussing The Changing Shape Of The Accounting Technology Landscape To Service The Changing Needs And Expectations Of Clients",
+                "topic":"Exploring how accountants can use cloud technology in the most efficient way to keep up with technology as it evolves"
+            },
+            {
+                "name":"Zerovnik Gasper",
+                "image":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/07/15942837334-5.jpg",
+                "designation":"Head Of Strategic Development, China Petroleum Chemical Corporation",
+                "desc":"Working as Head Of Strategic Development in China Petroleum and Chemical Corporation (Sinopec Corp.), China's largest producer and supplier of refined oil products and its second-largest crude oil producer. It is also China's largest petrochemicals producer and distributor and the world's fourth-largest ethylene producer.",
+                "session":" Discussing The Changing Shape Of The Accounting Technology Landscape To Service The Changing Needs And Expectations Of Clients",
+                "topic":"Exploring how accountants can use cloud technology in the most efficient way to keep up with technology as it evolves"
+            },
+            {
+                "name":"Egemam Gens",
+                "image":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/07/15942841624-2.jpg",
+                "designation":"Head Of Sales , The Boeing Co",
+                "desc":"Working as Head Of Sales in the Boeing Company, an American multinational corporation that designs, manufactures, and sells airplanes, rotorcraft, rockets, satellites, telecommunications equipment, and missiles worldwide. The company also provides leasing and product support services.",
+                "session":"Exploring The Need To Leverage Current Cloud Based Technologies In Order To Future Proof Firms",
+                "topic":"Understanding how to harness cloud based technology to provide a more efficient and cost-effective service to the client"
+            },
+            {
+                "name":"Egemam Gens",
+                "image":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/07/15942841624-2.jpg",
+                "designation":"Head Of Sales , The Boeing Co",
+                "desc":"Working as Head Of Sales in the Boeing Company, an American multinational corporation that designs, manufactures, and sells airplanes, rotorcraft, rockets, satellites, telecommunications equipment, and missiles worldwide. The company also provides leasing and product support services.",
+                "session":"Exploring The Need To Leverage Current Cloud Based Technologies In Order To Future Proof Firms",
+                "topic":"Understanding how to harness cloud based technology to provide a more efficient and cost-effective service to the client"
+            },
+            {
+                "name":"Egemam Gens",
+                "image":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/07/15942841624-2.jpg",
+                "designation":"Head Of Sales , The Boeing Co",
+                "desc":"Working as Head Of Sales in the Boeing Company, an American multinational corporation that designs, manufactures, and sells airplanes, rotorcraft, rockets, satellites, telecommunications equipment, and missiles worldwide. The company also provides leasing and product support services.",
+                "session":"Exploring The Need To Leverage Current Cloud Based Technologies In Order To Future Proof Firms",
+                "topic":"Understanding how to harness cloud based technology to provide a more efficient and cost-effective service to the client"
+            }
+        ],
+        "companies":
+        [
+            {
+                "logo":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/07/spacex_logo.jpg",
+                "name":"Apace X",
+                "desc":"Space Exploration Technologies Corp., trading as SpaceX, is an American aerospace manufacturer and space transportation.",
+                "Classification" : "Business and Consumer Services",
+                "country":"United States",
+                "attendees":"1"
+            },
+            {
+                "logo":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/08/50.png",
+                "name":"Ingredion Inc",
+                "desc":"Ingredion Inc (Ingredion) is an ingredients solutions provider. The company manufactures and markets sweeteners, starche",
+                "Classification" : "Technology, Media & Telecom",
+                "country":"United States",
+                "attendees":"3"
+            },
+            {
+                "logo":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/06/PFM_ORD_CMY0.jpg",
+                "name":"Precision for Medicine, Oncology and Rare Disease",
+                "desc":"Precision for Medicines, Oncology and Rare Disease is the first comprehensive, fully-integrated CRO devoted to oncology",
+                "Classification" : "Chemicals",
+                "country":"United Kingdom",
+                "attendees":"4"
+            },
+            {
+                "logo":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/07/31.png",
+                "name":"Adecco SA",
+                "desc":"Adecco SA (Adecco) is a provider of human resources (HR) solutions. The company offers temporary staffing, permanent placement",
+                "Classification" : "Financial Services",
+                "country":"Switzerland",
+                "attendees":""
+            },
+            {
+                "logo":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/07/POSERA.png",
+                "name":"Posera",
+                "desc":"Maitre’D by Posera is a leading provider of hospitality EPOS systems and services, with over 3,000 installations in",
+                "Classification" : "Tourism, Leisure & Hospitality",
+                "country":"United Kingdom",
+                "attendees":"3"
+            },
+            {
+                "logo":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/07/xn_logo.png",
+                "name":"XN Protel Systems",
+                "desc":"Xn protel Systems is a global hospitality management software company specialising in PMS, CRS, POS and AMS solutions.",
+                "Classification" : "Business and Consumer Services",
+                "country":"United States",
+                "attendees":""
+            },
+            {
+                "logo":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/07/act.png",
+                "name":"ACT International",
+                "desc":"ACT International (ACT Int’l) is the global technical and services arm of Advanced Computer Technology (ACT), a promin",
+                "Classification" : "Technology, Media & Telecom",
+                "country":"Egypt",
+                "attendees":"2"
+            },
+            {
+                "logo":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/07/cropped-ResortSuite-2016-guest.png",
+                "name":"ResortSuite",
+                "desc":"Since the year 2000, ResortSuite’s unique hospitality software solutions have helped some of the world’s most prestigious",
+                "Classification" : "Business and Consumer Services",
+                "country":"United States",
+                "attendees":""
+            }
+        ],  
+        "sponsors":
+        [
+            {
+                "platinumSponsors":
+                [
+                {
+                "logo":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/07/download-3-2.jpg",
+                 "name":"Samsung"
+                },
+                {
+                "logo":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/07/download-2-1.png",
+                "name":"Microsoft"
+                }
+                
+                ],
+
+                "goldSponsors":
+                [
+                {
+                "logo":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/07/New1-1.png",
+                 "name":"Verizon"
+                },
+                {
+                "logo":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/07/download-1-1.jpg",
+                "name":"Bank of China"
+                }
+                ],
+
+                "silverSponsors":
+                [
+                {
+                "logo":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/07/download-4-1.jpg",
+                 "name":"Petro China Co Ltd"
+                },
+                {
+                "logo":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/07/download-4-1.png",
+                "name":"Royal Dutch Shell Plc"
+                }
+                ],
+
+                "bronzeSponsors":
+                [
+                {
+                "logo":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/07/New2-1.png",
+                 "name":"Mitsubhi Corporation"
+                },
+                {
+                "logo":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/07/download-1-1.png",
+                "name":"Berkshire Hathway Inc"
+                }
+                ]
+              }
+        ],   
+        "exhibitors": [
+            {
+                "logo":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/07/spacex_logo.jpg",
+                "name":"Apace X",
+                "desc":"Space Exploration Technologies Corp., trading as SpaceX, is an American aerospace manufacturer and space transportation.",
+                "Classification" : "Business and Consumer Services",
+                "country":"United States",
+                "attendees":"1"
+            },
+            {
+                "logo":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/08/50.png",
+                "name":"Ingredion Inc",
+                "desc":"Ingredion Inc (Ingredion) is an ingredients solutions provider. The company manufactures and markets sweeteners, starche",
+                "Classification" : "Technology, Media & Telecom",
+                "country":"United States",
+                "attendees":"3"
+            },
+            {
+                "logo":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/06/PFM_ORD_CMY0.jpg",
+                "name":"Precision for Medicine, Oncology and Rare Disease",
+                "desc":"Precision for Medicines, Oncology and Rare Disease is the first comprehensive, fully-integrated CRO devoted to oncology",
+                "Classification" : "Chemicals",
+                "country":"United Kingdom",
+                "attendees":"4"
+            },
+            {
+                "logo":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/07/31.png",
+                "name":"Adecco SA",
+                "desc":"Adecco SA (Adecco) is a provider of human resources (HR) solutions. The company offers temporary staffing, permanent placement",
+                "Classification" : "Financial Services",
+                "country":"Switzerland",
+                "attendees":""
+            },
+            {
+                "logo":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/07/POSERA.png",
+                "name":"Posera",
+                "desc":"Maitre’D by Posera is a leading provider of hospitality EPOS systems and services, with over 3,000 installations in",
+                "Classification" : "Tourism, Leisure & Hospitality",
+                "country":"United Kingdom",
+                "attendees":"3"
+            },
+            {
+                "logo":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/07/xn_logo.png",
+                "name":"XN Protel Systems",
+                "desc":"Xn protel Systems is a global hospitality management software company specialising in PMS, CRS, POS and AMS solutions.",
+                "Classification" : "Business and Consumer Services",
+                "country":"United States",
+                "attendees":""
+            },
+            {
+                "logo":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/07/act.png",
+                "name":"ACT International",
+                "desc":"ACT International (ACT Int’l) is the global technical and services arm of Advanced Computer Technology (ACT), a promin",
+                "Classification" : "Technology, Media & Telecom",
+                "country":"Egypt",
+                "attendees":"2"
+            },
+            {
+                "logo":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/07/cropped-ResortSuite-2016-guest.png",
+                "name":"ResortSuite",
+                "desc":"Since the year 2000, ResortSuite’s unique hospitality software solutions have helped some of the world’s most prestigious",
+                "Classification" : "Business and Consumer Services",
+                "country":"United States",
+                "attendees":""
+            }
+        ],
+        "products":
+        [
+            {
+                "logo":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/07/22-1-300x93.png",
+                "name":"NUPLAZID®",
+                "productType":"Product",
+                "licensingType":"Inlicense Products",
+                "company":"Acadia Pharmaceuticals"
+            },
+            {
+                "logo":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/07/17-1-1-300x138.jpg",
+                "name":"PartnerRe",
+                "productType":"Others",
+                "licensingType":"Inlicense Products",
+                "company":"Acadia Pharmaceuticals"
+            },
+            {
+                "logo":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/07/15-2.jpg",
+                "name":"PSG solutions",
+                "productType":"Service",
+                "licensingType":"Inlicense Products",
+                "company":"Acadia Pharmaceuticals"
+            },
+            {
+                "logo":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/07/14-1-300x206.jpg",
+                "name":"Postal Savings",
+                "productType":"Service",
+                "licensingType":"Inlicense Products",
+                "company":"Acadia Pharmaceuticals"
+            },
+            {
+                "logo":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/07/13-1-1-300x200.jpg",
+                "name":"LIQUEFIED PETROLEUM GAS (LPG)",
+                "productType":"Product",
+                "licensingType":"Inlicense Products",
+                "company":"ACT International"
+            },
+            {
+                "logo":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/07/12-4-300x225.jpg",
+                "name":"ACT – Cloud computing",
+                "productType":"Service",
+                "licensingType":"Inlicense Products",
+                "company":"AEON Co Ltd"
+            },
+            {
+                "logo":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/07/11-1-300x200.jpg",
+                "name":"Converged Network and Security Solutions",
+                "productType":"Service",
+                "licensingType":"Inlicense Products",
+                "company":"XN Protel Systems"
+            },
+            {
+                "logo":"https://ind-backend-events-website.pantheonsite.io/wp-content/uploads/2020/07/10-4-300x136.jpg",
+                "name":"ACT – Structured Cabling",
+                "productType":"Technology",
+                "licensingType":"Inlicense Products",
+                "company":"Acadia Pharmaceuticals"
+            }
+            
+            
+        ],
+        "profile":[
+            {
+                "name":"Yoganath C",
+                "desc":"Working as SSE in ACT International, a data analytics and consulting company that was established in 1999, and has been listed on the London Stock Exchange since 2002..",
+                "email":"yoganath1265@gmail.com",
+                "secondaryemail":"rajashekar.aligeti12@gmail.com",
+                "mobile":"9876543210",
+                "company":"Acadia Pharmaceuticals",
+                "jobtitle":"Security Operations Director",
+                "address":"Jyothi Pinacle, Kondapur, Hyderabad, Telangana, India, 500083"
+
+            }
+        ]
+        
+       
+    }
+}
